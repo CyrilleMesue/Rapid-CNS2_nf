@@ -49,7 +49,11 @@ This pipeline is implemented using Nextflow, allowing for easy execution and sca
 
 4. Monitor pipeline progress and access results in the specified output directory.
 
+## Sequencing
+This pipeline analyses CNS tumour data generated through Nanopore adaptive sampling using [ReadFish](https://github.com/LooseLab/readfish) or adaptive sampling on MinKNOW. It is compatible with data generated on MinION, GridION and PromethION
 
+
+## Contributions
 Contributions are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute new features, please open an issue or pull request on this repository.
 
 ## License
