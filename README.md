@@ -25,7 +25,7 @@ This pipeline is implemented using Nextflow, allowing for easy execution and sca
 - Conda, Docker or Singularity (optional, for containerized execution of tools)
 - Required input data:
   - Raw ONT POD5 data (for basecalling) or pre-aligned BAM files
-  - Reference genome file (e.g., hg19)
+  - Reference genome file (hg38 required)
 
 ## Usage
 
